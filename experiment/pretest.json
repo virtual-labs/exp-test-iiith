@@ -2,38 +2,40 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Expansion of TCP",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Transistor Control Protocol",
+        "b": "Transmission Control Protocol",
+        "c": "Transport Control protocol",
+        "d": "Tele Communication Protocol"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In networking between computing systems, _______ connection(s) is(are) supported by the OSI model.  ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": " Connection-oriented",
+        "b": "Connectionless",
+        "c": "Connectionless and Connection-oriented ",
+        "d": " None of the mentioned"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+       
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question":  "Which of the following is true with respect to TCP? ",
+      "answers": {
+        "a": "Connectionless",
+        "b": "Acknowledgement is not processed",
+        "c": " Data link layer protocol",
+        "d": "Connection-oriented"
+      },
+       
+      "correctAnswer": "d",
+      "difficulty": "beginner"
     }
+
   ]
 }
